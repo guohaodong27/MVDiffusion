@@ -9,3 +9,4 @@ wrapt==1.15.0
 numpy==1.23.5
 google==3.0.0
 googleapis-common-protos==1.59.0
+huggingface_hub==0.24.7
